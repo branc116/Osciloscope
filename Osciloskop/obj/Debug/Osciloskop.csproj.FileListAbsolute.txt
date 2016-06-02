@@ -1,0 +1,16 @@
+c:\users\branimir\documents\visual studio 2015\Projects\Osciloskop\Osciloskop\bin\Debug\Osciloskop.exe
+c:\users\branimir\documents\visual studio 2015\Projects\Osciloskop\Osciloskop\bin\Debug\Osciloskop.pdb
+c:\users\branimir\documents\visual studio 2015\Projects\Osciloskop\Osciloskop\obj\Debug\Osciloskop.csprojResolveAssemblyReference.cache
+c:\users\branimir\documents\visual studio 2015\Projects\Osciloskop\Osciloskop\obj\Debug\Osciloskop.Form1.resources
+c:\users\branimir\documents\visual studio 2015\Projects\Osciloskop\Osciloskop\obj\Debug\Osciloskop.Properties.Resources.resources
+c:\users\branimir\documents\visual studio 2015\Projects\Osciloskop\Osciloskop\obj\Debug\Osciloskop.csproj.GenerateResource.Cache
+c:\users\branimir\documents\visual studio 2015\Projects\Osciloskop\Osciloskop\obj\Debug\Osciloskop.exe
+c:\users\branimir\documents\visual studio 2015\Projects\Osciloskop\Osciloskop\obj\Debug\Osciloskop.pdb
+C:\Users\Branimir\Source\Repos\Osciloscope\Osciloskop\obj\Debug\Osciloskop.exe
+C:\Users\Branimir\Source\Repos\Osciloscope\Osciloskop\obj\Debug\Osciloskop.pdb
+C:\Users\Branimir\Source\Repos\Osciloscope\Osciloskop\bin\Debug\Osciloskop.exe
+C:\Users\Branimir\Source\Repos\Osciloscope\Osciloskop\bin\Debug\Osciloskop.pdb
+C:\Users\Branimir\Source\Repos\Osciloscope\Osciloskop\obj\Debug\Osciloskop.csprojResolveAssemblyReference.cache
+C:\Users\Branimir\Source\Repos\Osciloscope\Osciloskop\obj\Debug\Osciloskop.Form1.resources
+C:\Users\Branimir\Source\Repos\Osciloscope\Osciloskop\obj\Debug\Osciloskop.Properties.Resources.resources
+C:\Users\Branimir\Source\Repos\Osciloscope\Osciloskop\obj\Debug\Osciloskop.csproj.GenerateResource.Cache
