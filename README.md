@@ -3,6 +3,7 @@ Small not so good oscilocope made in lua for Esp8266 12 with nodemcu framework o
 
 For this to work you need Esp8266 ic.
 I worked with Esp8266 esp-12 version, but I thik it shuld work with other versions.
+![Alt text](OsciloscopeHard.jpg)
 
 You will have to flash the greatest framework for this IC nodeMCU
 # https://github.com/nodemcu/nodemcu-firmware
@@ -18,3 +19,4 @@ And you are good to go.
 
 If you put refresh interval lower then 10 ms ESP will crash, so don't do it, or do it, I don't give a....
 
+![Alt text](OsciloscopeGUI.jpg)
